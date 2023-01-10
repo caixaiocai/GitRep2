@@ -9,4 +9,12 @@ package com.cai;
 public class student {
     private String name;
     private Integer age;
+
+    public student() {
+    }
+
+    public student(String name, Integer age) {
+        this.name = name;
+        this.age = age;
+    }
 }

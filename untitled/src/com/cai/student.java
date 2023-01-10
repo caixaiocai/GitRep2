@@ -7,4 +7,6 @@ package com.cai;
  * @Version:
  */
 public class student {
+    private String name;
+    private Integer age;
 }
